@@ -1,5 +1,6 @@
 ---
-permalink: /products
+title: Products
+permalink: /products/
 ---
 
 <table>
