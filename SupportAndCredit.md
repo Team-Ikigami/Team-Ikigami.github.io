@@ -2,8 +2,9 @@
 name: About Us
 permalink: /about/
 ---
-
-# Support Us Please!
+<div style="text-align: center">
+  <h1>Support Us Please!</h1>
+</div>
 
 <table>
   <thead>
