@@ -4,6 +4,7 @@
 
 
 | [homepage](./index.md) | [Downloads](./Products.md) | [Support and Credits](./SupportAndCredit.md) |
+|:----------------------:|:--------------------------:|:--------------------------------------------:|
 
 # Ascending to godhood
 
