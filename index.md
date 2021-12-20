@@ -2,6 +2,10 @@
   <title>Ascending to Godhood: A game for no-lifes and depressants</title>
 </head>
 
+<div style="text-align: center">
+  # Ascending to godhood
+</div>
+
 <table>
   <thead>
     <tr>
@@ -11,8 +15,6 @@
     </tr>
   </thead>
 </table>
-
-# Ascending to godhood
 
 view page [here](https://duckeater54.github.io")
 
