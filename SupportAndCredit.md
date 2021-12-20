@@ -1,3 +1,8 @@
+---
+name: About Us
+permalink: /about/
+---
+
 # Support Us Please!
 
 <table>
