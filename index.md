@@ -3,7 +3,7 @@
 </head>
 
 <div style="text-align: center">
-  # Ascending to godhood
+  <h1>Ascending to godhood</h1>
 </div>
 
 <table>
