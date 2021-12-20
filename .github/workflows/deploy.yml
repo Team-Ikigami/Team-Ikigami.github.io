@@ -7,4 +7,38 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
+      - uses: actions/checkout@v2
+      - uses: peaceiris/actions-mdbook@v1.1.13
+      - name: MDBook Build HTMG
+        run: |
+          cd ./docs/guide/
+          cd "HermaeusTheMora Guides"
+          mdbook build
+      - run: |
+          cd ..
+          cd ..
+          cd ..
+          cd ..
+          cd ..
+      # Just in case
+      - name: MDBook Build DEG
+        run: |
+          cd ./docs/guide/
+          cd "DuckEater54 Guides"
+          mdbook build
+      - run: |
+          cd ..
+          cd ..
+          cd ..
+          cd ..
+          cd ..
+      # Just in case
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
