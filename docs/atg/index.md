@@ -1,0 +1,10 @@
+---
+title: Ascending to Godhood
+permalink: /atg/
+---
+
+# Ascending to Godhood
+
+### *A game for those who want to be the best they can without doing anything"
+
+Ascending To Godhood is a 3D game developed by a couple of newbie game devs.
