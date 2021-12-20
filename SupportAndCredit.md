@@ -1,11 +1,17 @@
-# Support Us Please!
+---
+name: About Us
+permalink: /about/
+---
+<div style="text-align: center">
+  <h1>Support Us Please!</h1>
+</div>
 
 <table>
   <thead>
     <tr>
-      <th style="text-align: center"><a href="/">homepage</a></th>
-      <th style="text-align: center"><a href="/Products.html">Downloads</a></th>
-      <th style="text-align: center"><a href="/SupportAndCredit.html">Support and Credits</a></th>
+      <th style="text-align: center"><a href="https://duckeater54.github.io/">homepage</a></th>
+      <th style="text-align: center"><a href="https://duckeater54.github.io/products">Downloads</a></th>
+      <th style="text-align: center"><a href="https://duckeater54.github.io/about">Support and Credits</a></th>
     </tr>
   </thead>
 </table>
