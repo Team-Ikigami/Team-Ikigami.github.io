@@ -1,4 +1,4 @@
 ---
-title: "Kanata | Mfl"
+title: "Kanata | My Forbidden Love"
 permalink: "/mfl/guides/kanata/"
 ---
