@@ -1,3 +1,7 @@
+---
+permalink: /products
+---
+
 <table>
   <thead>
     <tr>
