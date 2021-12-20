@@ -1,5 +1,7 @@
 ---
 title: Ascending To Godhood guides
+permalink: /guides/
+---
 
 # Guides index
 - [HemaeusTheMoras Guides](./HermaeusTheMora Guides/book/index.html)
