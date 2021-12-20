@@ -4,4 +4,4 @@ theme: jekyll-theme-dinky
 collections:
   my_collection:
     output: true
-    permalink: /:path/:basename
+    permalink: /:collections/:path/:name
