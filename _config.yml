@@ -1,4 +1,6 @@
 title: "Ikigami's games"
 description: "The place for all games developed or led by DuckEater54/Ikigami"
 theme: jekyll-theme-hydure
-  
+plugins:
+  - jekyll-remote-theme
+remote_theme: zivong/jekyll-theme-hydure
