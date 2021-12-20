@@ -1,6 +1,6 @@
 ---
 title: Ascending To Godhood guides
-permalink: /guides/
+permalink: /:path/guides/
 ---
 
 # Guides index
