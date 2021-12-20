@@ -2,9 +2,15 @@
   <title>Ascending to Godhood: A game for no-lifes and depressants</title>
 </head>
 
-| [homepage](./index.md) | [Downloads](./Products.md) | [Support and Credits](./SupportAndCredit.md) |
-|:----------------------:|:--------------------------:|:--------------------------------------------:|
-|                        |                            |                                              |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><a href="/">homepage</a></th>
+      <th style="text-align: center"><a href="/Products.html">Downloads</a></th>
+      <th style="text-align: center"><a href="/SupportAndCredit.html">Support and Credits</a></th>
+    </tr>
+  </thead>
+</table>
 
 # Ascending to godhood
 
