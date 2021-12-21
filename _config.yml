@@ -1,8 +1,4 @@
 title: "Ikigami's games"
 description: "The place for all games developed or led by DuckEater54/Ikigami"
 iconURL: assets/default-icon.png
-theme: jekyll-theme-leaf
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
-
+theme: jekyll-theme-dinky
