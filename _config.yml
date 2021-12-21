@@ -6,3 +6,6 @@ collections:
   my_collection:
     output: true
     permalink: /:collections/:path/:name
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
