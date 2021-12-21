@@ -1,3 +1,3 @@
 # Ascending To Godhood
 
-View page [here](https://duckeater54.github.io)
+View page [here](https://Team-Ikigami.github.io)
