@@ -2,8 +2,8 @@
 title: File Index
 permalink: /.index/
 ---
-- [.](./index.md)
-- [.](./Products.md)
+- [index.html](./index.md)
+- [products](./Products.md)
 - [.](./SupportAndCredit.md)
 - [.](./login.html)
 - [.](./docs/atg/index.md)
