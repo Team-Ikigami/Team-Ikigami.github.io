@@ -1,0 +1,64 @@
+/* thought of a way that makes less effort. Its more intrusive but sadly thats what im doing */
+.dropbtn {
+	background-color: #EEEEEE;
+	color: white;
+	padding: 16px;
+	font-size: 24px;
+	border: none;
+	cursor: pointer;
+}
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 100%;
+	z-index: 1;
+}
+.dropdown-content-section {
+	background-color: #FFFFFF;
+	padding: 5%;
+	border-radius: 25px 25px 25px 25px;
+	position: absolute;
+	display: flex;
+	position: absolute;
+	margin-top: 10px;
+}
+.leftdrpcontsec {
+	display: none;
+	width: 30%;
+	height: 90%;
+	position: absolute;
+	margin-left: 10px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.leftdrpcontsec: .dropdown-content 
+.centerdrpcontsec {
+	display: none;
+	width: 50%;
+	height: 90%;
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.rightdrpcontsec {
+	width: 20%;
+	height: 90%;
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 10px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.usricoside {
+	padding-left: 20px;
+	padding-right: 5px;
+	position: absolute;
+}
+
