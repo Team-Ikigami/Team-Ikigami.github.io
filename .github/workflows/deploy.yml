@@ -18,8 +18,7 @@ jobs:
         with:
           mdbook-version: 'latest'
       - run: |
-          cd guide \
-          cd "DuckEater54 Guides"
+          cd "guide/DuckEater54 Guides"
           mdbook build
           cd ..
           cd "HermaeusTheMora Guides"
