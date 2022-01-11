@@ -1,0 +1,2 @@
+cd serve
+.\serveapp.appimage
