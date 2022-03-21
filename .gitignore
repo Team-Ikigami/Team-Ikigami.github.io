@@ -72,4 +72,9 @@ tags
 # Support for Project snippet scope
 !.vscode/*.code-snippets
 
+# NPM
+node_modules
+package.json
+package-lock.json
+
 # End of https://www.toptal.com/developers/gitignore/api/vim,mdbook,visualstudiocode,git,rust
